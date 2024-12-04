@@ -1,5 +1,5 @@
 # Cloud Computing Models
-As per business or project requirement usage Cloud Computing is divided into below models
+As per business or project requirements and usage, Cloud Computing is divided into below models
 
 <img src="https://github.com/kmitsolution/AWS/blob/main/Certifications/Solution_Associate_Architect/images/CloudModels.jpg" width=700 height=300 />
 
@@ -15,10 +15,10 @@ As per business or project requirement usage Cloud Computing is divided into bel
 
 ## Platform as a Service(PaaS)
 <ul>
-    <li>It allows you or your organization to build/run/manage the application without worrying about to set up Infrastructure.</li>
+    <li>It allows you or your organization to build/run/manage the application without worrying about setting up the Infrastructure.</li>
     <li>IT Infrastructure is managed by Cloud Service Provider</li>
     <li>Developers can focus on the developement rather than worrying about deployment.</li>
-  <li><b>Example:-</b> AWS Elastic Beanstalk Google App Engine
+  <li><b>Example:-</b> AWS Elastic Beanstalk, Google App Engine
 </ul>  
 
 ## Software as a Service(SaaS)
